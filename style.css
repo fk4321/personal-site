@@ -1,3 +1,6 @@
+body {
+    background-color: blue;
+}
 .container {
     display: flex;
     border: 1px black solid;
@@ -12,4 +15,26 @@
 
 .text {
     text-align: center;
+}
+
+/* About.html Styling */
+.about-activity {
+    display: flex;
+    position: justify;
+}
+
+.about-image {
+    float: right;
+}
+
+/* Portfolio Styling */
+.port-container {
+    background-color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+
+.mini-cointainer {
+    display: flex;
 }
