@@ -2,7 +2,7 @@
 
 Welcome to my personal website repository! This is where I showcase my skills, interests, and projects. Feel free to explore the different sections of my site:
 
-## Home
+## [Home](./about.html)
 The home tab provides an overview of who I am, my background, and my professional experience. You'll find information about my skills, achievements, and any noteworthy details that give you a glimpse into my professional life.
 
 ## About
